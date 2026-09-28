@@ -21,3 +21,4 @@
 [2026-09-28 13:41:31 UTC] 🔔 ALERT FIRED - WATCH SELL  approaching 4160.00  [alert_id=124346-DN]
 [2026-09-28 13:41:32 UTC] >>> SELL SIGNAL  entry~4159.80  initial stop 4208.04  (1h ATR 16.08, trailing - no fixed target, had_alert=True, trade #2 today)
 [2026-09-28 13:41:32 UTC] Session 124347 range set: 4158.00-4178.60 (ATR15 8.150000000000025, EMA100(1h) 4261.7339528032835) -> active
+[2026-09-28 16:19:22 UTC] Session 124348 range set: 4131.30-4137.90 (ATR15 11.128571428571442, EMA100(1h) 4252.617659243698) -> active
