@@ -16,3 +16,8 @@
 [2026-09-28 02:12:19 UTC] >>> SELL SIGNAL  entry~4239.60  initial stop 4255.67  (1h ATR 5.36, trailing - no fixed target, had_alert=False, trade #1 today)
 [2026-09-28 08:43:58 UTC] Session 124345 range set: 4200.80-4204.80 (ATR15 8.53571428571435, EMA100(1h) 4278.216565620885) -> active
 [2026-09-28 08:43:59 UTC] Session 124346 range set: 4160.00-4166.50 (ATR15 7.967857142857091, EMA100(1h) 4269.82750997845) -> active
+[2026-09-28 13:41:31 UTC] PAPER TRADE CLOSED  SELL entry 4239.60 -> exit 4165.27  result=TRAIL  R=4.63  (had_alert=False, est. fee $0.3200 on the $100 tier)
+[2026-09-28 13:41:31 UTC] 🔔 ALERT FIRED - WATCH BUY  approaching 4166.50  [alert_id=124346-UP]
+[2026-09-28 13:41:31 UTC] 🔔 ALERT FIRED - WATCH SELL  approaching 4160.00  [alert_id=124346-DN]
+[2026-09-28 13:41:32 UTC] >>> SELL SIGNAL  entry~4159.80  initial stop 4208.04  (1h ATR 16.08, trailing - no fixed target, had_alert=True, trade #2 today)
+[2026-09-28 13:41:32 UTC] Session 124347 range set: 4158.00-4178.60 (ATR15 8.150000000000025, EMA100(1h) 4261.7339528032835) -> active
