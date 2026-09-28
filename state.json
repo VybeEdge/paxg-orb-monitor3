@@ -1,13 +1,13 @@
 {
-  "last_bar_time": 1790561460,
+  "last_bar_time": 1790565900,
   "open_trade": {
     "side": -1,
     "entry": 4239.6,
     "init_stop": 4255.669285714286,
-    "stop": 4255.669285714286,
+    "stop": 4214.969285714285,
     "stop_dist": 16.06928571428586,
     "atr1h": 5.356428571428621,
-    "mfe": 4209.6,
+    "mfe": 4198.9,
     "entry_time": "2026-09-28T00:31:00Z",
     "had_alert": false
   },
@@ -62,8 +62,8 @@
   "alerted_up": false,
   "alerted_dn": false,
   "closes_before": [
-    4218.1,
-    4217.5,
-    4217.9
+    4200.7,
+    4200.7,
+    4199.6
   ]
 }
