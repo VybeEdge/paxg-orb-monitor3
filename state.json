@@ -1,5 +1,5 @@
 {
-  "last_bar_time": 1791144420,
+  "last_bar_time": 1791155160,
   "open_trade": {
     "side": -1,
     "entry": 4162.0,
@@ -56,10 +56,14 @@
   "session": 124385,
   "range_high": 4145.2,
   "range_low": 4144.5,
-  "day_atr": null,
-  "session_ema": null,
-  "range_ok": false,
+  "day_atr": 0.688571428571322,
+  "session_ema": 4160.682516802663,
+  "range_ok": true,
   "alerted_up": false,
   "alerted_dn": false,
-  "closes_before": []
+  "closes_before": [
+    4149.8,
+    4150.1,
+    4150.1
+  ]
 }
