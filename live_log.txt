@@ -205,3 +205,5 @@
 [2026-10-27 15:53:12 UTC] Session 124521 range set: 4019.80-4025.60 (ATR15 6.2835714285713165, EMA100(1h) 4025.757586690924) -> active
 [2026-10-27 15:53:12 UTC] PAPER TRADE CLOSED  SELL entry 4162.00 -> exit 4044.48  result=TRAIL  R=1.90  (had_alert=False, est. fee $0.0815 on the $100 tier)
 [2026-10-27 15:53:13 UTC] >>> BUY SIGNAL  entry~4042.91  initial stop 4002.54  (1h ATR 13.46, trailing - no fixed target, had_alert=False, trade #1 today)
+[2026-10-27 20:23:06 UTC] Session 124522 range set: 4058.70-4066.35 (ATR15 7.904285714285769, EMA100(1h) 4027.957748442256) -> active
+[2026-10-27 20:23:07 UTC] Session 124523 range set: 4060.20-4062.90 (ATR15 3.351428571428609, EMA100(1h) 4030.4462903336544) -> active
