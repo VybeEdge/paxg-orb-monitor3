@@ -1,69 +1,69 @@
 {
-  "last_bar_time": 1794306480,
+  "last_bar_time": 1794334080,
   "open_trade": {
-    "side": 1,
-    "entry": 4081.2,
-    "init_stop": 4051.395,
-    "stop": 4051.395,
-    "stop_dist": 29.805000000000035,
-    "atr1h": 9.935000000000011,
-    "mfe": 4131.7,
-    "entry_time": "2026-11-09T00:34:00Z",
+    "side": -1,
+    "entry": 4046.9,
+    "init_stop": 4094.8935714285717,
+    "stop": 4094.8935714285717,
+    "stop_dist": 47.993571428571585,
+    "atr1h": 15.997857142857194,
+    "mfe": 4006.9,
+    "entry_time": "2026-11-10T13:31:00Z",
     "had_alert": false
   },
   "tiers": {
     "100": {
-      "balance": 105.24352663748785,
+      "balance": 104.02104156085387,
       "peak": 107.55055049699493,
       "max_dd_pct": -4.344344569686093,
-      "trades": 14,
+      "trades": 15,
       "wins": 6,
-      "losses": 8,
-      "fees": 3.0169041410587094
+      "losses": 9,
+      "fees": 3.1869539513178067
     },
     "1000": {
-      "balance": 1052.4352663748787,
+      "balance": 1040.210415608539,
       "peak": 1075.5055049699495,
       "max_dd_pct": -4.344344569686106,
-      "trades": 14,
+      "trades": 15,
       "wins": 6,
-      "losses": 8,
-      "fees": 30.169041410587095
+      "losses": 9,
+      "fees": 31.86953951317807
     },
     "10000": {
-      "balance": 10524.352663748788,
+      "balance": 10402.104156085392,
       "peak": 10755.055049699497,
       "max_dd_pct": -4.344344569686085,
-      "trades": 14,
+      "trades": 15,
       "wins": 6,
-      "losses": 8,
-      "fees": 301.690414105871
+      "losses": 9,
+      "fees": 318.69539513178074
     }
   },
   "alerts_total": 2,
   "alerts_followed": 1,
   "alerts_not_followed": 1,
-  "trades_total": 14,
+  "trades_total": 15,
   "trades_wins": 6,
-  "trades_losses": 8,
-  "sum_R": 8.31204520828163,
+  "trades_losses": 9,
+  "sum_R": 7.312045208281637,
   "trades_with_alert": 1,
   "wins_with_alert": 0,
-  "trades_without_alert": 13,
+  "trades_without_alert": 14,
   "wins_without_alert": 6,
   "day": "2026-11-10",
-  "trades_today": 0,
-  "session": 124604,
-  "range_high": 4106.7,
-  "range_low": 4100.2,
-  "day_atr": 5.871428571428559,
-  "session_ema": 4074.954918149165,
+  "trades_today": 1,
+  "session": 124606,
+  "range_high": 4034.3,
+  "range_low": 4025.7,
+  "day_atr": 12.219285714285727,
+  "session_ema": 4070.8918547079147,
   "range_ok": true,
   "alerted_up": false,
   "alerted_dn": false,
   "closes_before": [
-    4064.6,
-    4064.4,
-    4064.2
+    4010.9,
+    4011.47,
+    4011.1
   ]
 }
