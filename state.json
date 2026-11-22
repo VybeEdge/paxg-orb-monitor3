@@ -1,69 +1,59 @@
 {
-  "last_bar_time": 1795372800,
-  "open_trade": {
-    "side": -1,
-    "entry": 3820.5,
-    "init_stop": 3900.312857142857,
-    "stop": 3572.312857142857,
-    "stop_dist": 79.81285714285715,
-    "atr1h": 26.604285714285716,
-    "mfe": 3492.5,
-    "entry_time": "2026-11-15T04:33:00Z",
-    "had_alert": false
-  },
+  "last_bar_time": 1795391460,
+  "open_trade": null,
   "tiers": {
     "100": {
-      "balance": 108.35336399874814,
-      "peak": 109.5595227597234,
+      "balance": 111.66153203369322,
+      "peak": 111.66153203369322,
       "max_dd_pct": -4.344344569686093,
-      "trades": 18,
-      "wins": 8,
+      "trades": 19,
+      "wins": 9,
       "losses": 10,
-      "fees": 3.529541816395124
+      "fees": 3.590744681388566
     },
     "1000": {
-      "balance": 1083.5336399874816,
-      "peak": 1095.5952275972343,
+      "balance": 1116.6153203369324,
+      "peak": 1116.6153203369324,
       "max_dd_pct": -4.344344569686106,
-      "trades": 18,
-      "wins": 8,
+      "trades": 19,
+      "wins": 9,
       "losses": 10,
-      "fees": 35.29541816395124
+      "fees": 35.90744681388566
     },
     "10000": {
-      "balance": 10835.336399874821,
-      "peak": 10955.952275972346,
+      "balance": 11166.15320336933,
+      "peak": 11166.15320336933,
       "max_dd_pct": -4.344344569686085,
-      "trades": 18,
-      "wins": 8,
+      "trades": 19,
+      "wins": 9,
       "losses": 10,
-      "fees": 352.95418163951246
+      "fees": 359.0744681388567
     }
   },
   "alerts_total": 2,
   "alerts_followed": 1,
   "alerts_not_followed": 1,
-  "trades_total": 18,
-  "trades_wins": 8,
+  "trades_total": 19,
+  "trades_wins": 9,
   "trades_losses": 10,
-  "sum_R": 11.787934890370853,
+  "sum_R": 14.897548450663683,
   "trades_with_alert": 1,
   "wins_with_alert": 0,
-  "trades_without_alert": 17,
-  "wins_without_alert": 8,
+  "trades_without_alert": 18,
+  "wins_without_alert": 9,
   "day": "2026-11-22",
   "trades_today": 0,
-  "session": 124678,
-  "range_high": 3558.0,
-  "range_low": 3552.8,
-  "day_atr": 3.5228571428571223,
-  "session_ema": 3605.741016404873,
+  "session": 124679,
+  "range_high": 3547.1,
+  "range_low": 3546.7,
+  "day_atr": 2.6785714285714284,
+  "session_ema": 3601.3092559052448,
   "range_ok": true,
   "alerted_up": false,
   "alerted_dn": false,
   "closes_before": [
-    3553.7,
-    3552.8,
-    3553.3
+    3570.1,
+    3568.3,
+    3572.8
   ]
 }
